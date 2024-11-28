@@ -20,6 +20,7 @@ vim.opt.undofile = true
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
 vim.opt.signcolumn = 'yes'
+vim.opt.shell = 'cmd.exe'
 
 -- Decrease update time
 vim.opt.updatetime = 250

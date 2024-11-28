@@ -27,6 +27,8 @@ return {
       formatters_by_ft = {
         lua = { 'stylua' },
         python = { 'black' },
+        bib = { 'bibtex-tidy' },
+        markdown = { 'mdslw' },
         -- javascript = { { "prettierd", "prettier" } },
       },
     },
